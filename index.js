@@ -18,9 +18,9 @@ const randomImagePath2 = imagePaths[getRamdomIdex(imagePaths)];
 
 
 //assigning the random images to the src of my image 
-document.querySelector(".dice .img1").src=randomImagePath;
+document.querySelector(".index .img1").src=randomImagePath;
 
-document.querySelector(".dice .img2").src=randomImagePath2;
+document.querySelector(".index .img2").src=randomImagePath2;
 
 
 //work unknown
